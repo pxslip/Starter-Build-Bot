@@ -1,0 +1,23 @@
+{
+  "name": "Starter-Build-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxslip/Starter-Build-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxslip/Starter-Build-Bot/issues"
+  },
+  "homepage": "https://github.com/pxslip/Starter-Build-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
